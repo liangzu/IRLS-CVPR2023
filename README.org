@@ -1,4 +1,4 @@
-#+TITLE: IRLS + GNC for Outlier-Robust Estimation (CVPR 2023 Highlight)
+#+TITLE: IRLS + GNC for Outlier-Robust Estimation (CVPR 2023)
 
 This single-file repository consist of basic implementations for the methods described in:
 #+BEGIN_EXAMPLE
