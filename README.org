@@ -1,11 +1,11 @@
-#+TITLE: IRLS + GNC for Outlier-Robust Estimation (CVPR 2023)
+#+TITLE: IRLS + GNC (CVPR 2023 Highlight)
 
-This single-file repository consist of basic implementations for the methods described in:
+This single-file repository consists of basic implementations for the methods described in:
 #+BEGIN_EXAMPLE
 LP, C. Kümmerle, R. Vidal, On the Convergence of IRLS and Its Variants in Outlier-Robust Estimation, CVPR 2023
 #+END_EXAMPLE
 
-
+The paper is about theoretical analysis of /iteratively weighted least-squares/ and /graduated non-convexity/ for outlier-robust estimation.
 
 Kindly cite the paper if you have found it helpful in your research.
 
